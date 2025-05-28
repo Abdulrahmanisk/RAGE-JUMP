@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 1fff133d64309804a8f10167597f0925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7243455144766710484
+    second: lv2-2_bg_mid_far_near_wall2_0
+  - first:
+      213: 7295644217960730775
+    second: lv2-2_bg_mid_far_near_wall2_1
+  - first:
+      213: 2391488046043706795
+    second: lv2-2_bg_mid_far_near_wall2_2
+  - first:
+      213: -7200933376971900433
+    second: lv2-2_bg_mid_far_near_wall2_3
+  - first:
+      213: -1998984007923022673
+    second: lv2-2_bg_mid_far_near_wall2_4
+  - first:
+      213: -7455945178639534864
+    second: lv2-2_bg_mid_far_near_wall2_5
+  - first:
+      213: 8936825006921908541
+    second: lv2-2_bg_mid_far_near_wall2_6
+  - first:
+      213: -2873314232937401196
+    second: lv2-2_bg_mid_far_near_wall2_7
+  - first:
+      213: -7026937990684438341
+    second: lv2-2_bg_mid_far_near_wall2_8
+  - first:
+      213: -9070862309480384002
+    second: lv2-2_bg_mid_far_near_wall2_9
+  - first:
+      213: 7126287535276515976
+    second: lv2-2_bg_mid_far_near_wall2_10
+  - first:
+      213: 4648886770439542471
+    second: lv2-2_bg_mid_far_near_wall2_11
+  - first:
+      213: -248583603848772537
+    second: lv2-2_bg_mid_far_near_wall2_12
+  - first:
+      213: 6042619160695553429
+    second: lv2-2_bg_mid_far_near_wall2_13
+  - first:
+      213: 2739125859391300520
+    second: lv2-2_bg_mid_far_near_wall2_14
+  - first:
+      213: 6615018500277436040
+    second: lv2-2_bg_mid_far_near_wall2_15
+  - first:
+      213: -4430959735162378002
+    second: lv2-2_bg_mid_far_near_wall2_16
+  - first:
+      213: 4141151851216787851
+    second: lv2-2_bg_mid_far_near_wall2_17
+  - first:
+      213: -5786210878330814656
+    second: lv2-2_bg_mid_far_near_wall2_18
+  - first:
+      213: -5284398882742191205
+    second: lv2-2_bg_mid_far_near_wall2_19
+  - first:
+      213: -4354213089087520879
+    second: lv2-2_bg_mid_far_near_wall2_20
+  - first:
+      213: -7498210949720145482
+    second: lv2-2_bg_mid_far_near_wall2_21
+  - first:
+      213: -2389915116634190395
+    second: lv2-2_bg_mid_far_near_wall2_22
+  - first:
+      213: 1058162592505348273
+    second: lv2-2_bg_mid_far_near_wall2_23
+  - first:
+      213: -2958777042619206478
+    second: lv2-2_bg_mid_far_near_wall2_24
+  - first:
+      213: -6255829841905009524
+    second: lv2-2_bg_mid_far_near_wall2_25
+  - first:
+      213: -2351791852570960100
+    second: lv2-2_bg_mid_far_near_wall2_26
+  - first:
+      213: 3009498001229843641
+    second: lv2-2_bg_mid_far_near_wall2_27
+  - first:
+      213: -4474734261137776929
+    second: lv2-2_bg_mid_far_near_wall2_28
+  - first:
+      213: -571148491778068175
+    second: lv2-2_bg_mid_far_near_wall2_29
+  - first:
+      213: 2324600773987749779
+    second: lv2-2_bg_mid_far_near_wall2_30
+  - first:
+      213: 2856690169489232550
+    second: lv2-2_bg_mid_far_near_wall2_31
+  - first:
+      213: -4336930984141341534
+    second: lv2-2_bg_mid_far_near_wall2_32
+  - first:
+      213: -760154429069351531
+    second: lv2-2_bg_mid_far_near_wall2_33
+  - first:
+      213: 5680776795250867194
+    second: lv2-2_bg_mid_far_near_wall2_34
+  - first:
+      213: -5145738094419988063
+    second: lv2-2_bg_mid_far_near_wall2_35
+  - first:
+      213: -2620401687416651042
+    second: lv2-2_bg_mid_far_near_wall2_36
+  - first:
+      213: 8134796095869347683
+    second: lv2-2_bg_mid_far_near_wall2_37
+  - first:
+      213: -7690527034604754477
+    second: lv2-2_bg_mid_far_near_wall2_38
+  - first:
+      213: -3079316651103714410
+    second: lv2-2_bg_mid_far_near_wall2_39
+  - first:
+      213: -5063068440063317387
+    second: lv2-2_bg_mid_far_near_wall2_40
+  - first:
+      213: 4242423021874342803
+    second: lv2-2_bg_mid_far_near_wall2_41
+  - first:
+      213: 530551851486713372
+    second: lv2-2_bg_mid_far_near_wall2_42
+  - first:
+      213: -182582005154670109
+    second: lv2-2_bg_mid_far_near_wall2_43
+  - first:
+      213: 7850197740913575956
+    second: lv2-2_bg_mid_far_near_wall2_44
+  - first:
+      213: 5594363843052675918
+    second: lv2-2_bg_mid_far_near_wall2_45
+  - first:
+      213: 991661186462907201
+    second: lv2-2_bg_mid_far_near_wall2_46
+  - first:
+      213: -4009688884867559876
+    second: lv2-2_bg_mid_far_near_wall2_47
+  - first:
+      213: -6282573145291414133
+    second: lv2-2_bg_mid_far_near_wall2_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 882
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d54bd5ce31a7b90800000000000000
+      internalID: -7243455144766710484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1089
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7909e2323c55f3560800000000000000
+      internalID: 7295644217960730775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1085
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5370d05b5403120800000000000000
+      internalID: 2391488046043706795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1086
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f55eee35211c90800000000000000
+      internalID: -7200933376971900433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1090
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4cf08c2ae2244e0800000000000000
+      internalID: -1998984007923022673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1087
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f477620d59278890800000000000000
+      internalID: -7455945178639534864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1087
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3188659efaf50c70800000000000000
+      internalID: 8936825006921908541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1089
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49431b9bdefef18d0800000000000000
+      internalID: -2873314232937401196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb09e86b02d4b7e90800000000000000
+      internalID: -7026937990684438341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1087
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef931fcf9c2dd1280800000000000000
+      internalID: -9070862309480384002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1087
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826373b1c8a5e260800000000000000
+      internalID: 7126287535276515976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1089
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6df0903e9248040800000000000000
+      internalID: 4648886770439542471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1089
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7448b93878adc8cf0800000000000000
+      internalID: -248583603848772537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3a3a8c12bbd350800000000000000
+      internalID: 6042619160695553429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1087
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3ea14e474530620800000000000000
+      internalID: 2739125859391300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1089
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e7ca337444dcb50800000000000000
+      internalID: 6615018500277436040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1087
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8669bd8911282c0800000000000000
+      internalID: -4430959735162378002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1089
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b895abcfaa3587930800000000000000
+      internalID: 4141151851216787851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1085
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3791ecdf33bfa0800000000000000
+      internalID: -5786210878330814656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1085
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b3eaec63b0aa6b0800000000000000
+      internalID: -5284398882742191205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1088
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff49cd34ab293c0800000000000000
+      internalID: -4354213089087520879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1085
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b18cf25ed001f790800000000000000
+      internalID: -7498210949720145482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1085
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdcead1dd055ded0800000000000000
+      internalID: -2389915116634190395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1086
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b043e085495fae00800000000000000
+      internalID: 1058162592505348273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_24
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1089
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4f91db4ff40f6d0800000000000000
+      internalID: -2958777042619206478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_25
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1090
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb6f157e3de29a0800000000000000
+      internalID: -6255829841905009524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_26
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1089
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f99d935c1cc5fd0800000000000000
+      internalID: -2351791852570960100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_27
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1085
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8d83bc72e3c920800000000000000
+      internalID: 3009498001229843641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1089
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdedc9cc5ec86e1c0800000000000000
+      internalID: -4474734261137776929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_29
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1085
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1317199097fd218f0800000000000000
+      internalID: -571148491778068175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_30
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1083
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f43227614a24020800000000000000
+      internalID: 2324600773987749779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_31
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1085
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a291c1e29005a720800000000000000
+      internalID: 2856690169489232550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_32
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1077
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acbeda7f3020d3c0800000000000000
+      internalID: -4336930984141341534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1077
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a1e003936375f0800000000000000
+      internalID: -760154429069351531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_34
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1061
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb531b56c26de40800000000000000
+      internalID: 5680776795250867194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_35
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1061
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b6e6677aa698b0800000000000000
+      internalID: -5145738094419988063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_36
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1049
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed242bc7c8672abd0800000000000000
+      internalID: -2620401687416651042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 941
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e68ef2f994e070800000000000000
+      internalID: 8134796095869347683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 952
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d968de7862c54590800000000000000
+      internalID: -7690527034604754477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_39
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 943
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693840c12d11445d0800000000000000
+      internalID: -3079316651103714410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_40
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 936
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae88c341e5cb9b0800000000000000
+      internalID: -5063068440063317387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_41
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 925
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b62c5d24d10ea30800000000000000
+      internalID: 4242423021874342803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_42
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 813
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169ac21916ec5700800000000000000
+      internalID: 530551851486713372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_43
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 797
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9906832a6577df0800000000000000
+      internalID: -182582005154670109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_44
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 805
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4184ab3d04181fc60800000000000000
+      internalID: 7850197740913575956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 704
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43a179664c23ad40800000000000000
+      internalID: 5594363843052675918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_46
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 685
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf9a4589613cd00800000000000000
+      internalID: 991661186462907201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 689
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e03a51439ba58c0800000000000000
+      internalID: -4009688884867559876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_far_near_wall2_48
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 670
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852f77c201dfc8a0800000000000000
+      internalID: -6282573145291414133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_bg_mid_far_near_wall2_0: -7243455144766710484
+      lv2-2_bg_mid_far_near_wall2_1: 7295644217960730775
+      lv2-2_bg_mid_far_near_wall2_10: 7126287535276515976
+      lv2-2_bg_mid_far_near_wall2_11: 4648886770439542471
+      lv2-2_bg_mid_far_near_wall2_12: -248583603848772537
+      lv2-2_bg_mid_far_near_wall2_13: 6042619160695553429
+      lv2-2_bg_mid_far_near_wall2_14: 2739125859391300520
+      lv2-2_bg_mid_far_near_wall2_15: 6615018500277436040
+      lv2-2_bg_mid_far_near_wall2_16: -4430959735162378002
+      lv2-2_bg_mid_far_near_wall2_17: 4141151851216787851
+      lv2-2_bg_mid_far_near_wall2_18: -5786210878330814656
+      lv2-2_bg_mid_far_near_wall2_19: -5284398882742191205
+      lv2-2_bg_mid_far_near_wall2_2: 2391488046043706795
+      lv2-2_bg_mid_far_near_wall2_20: -4354213089087520879
+      lv2-2_bg_mid_far_near_wall2_21: -7498210949720145482
+      lv2-2_bg_mid_far_near_wall2_22: -2389915116634190395
+      lv2-2_bg_mid_far_near_wall2_23: 1058162592505348273
+      lv2-2_bg_mid_far_near_wall2_24: -2958777042619206478
+      lv2-2_bg_mid_far_near_wall2_25: -6255829841905009524
+      lv2-2_bg_mid_far_near_wall2_26: -2351791852570960100
+      lv2-2_bg_mid_far_near_wall2_27: 3009498001229843641
+      lv2-2_bg_mid_far_near_wall2_28: -4474734261137776929
+      lv2-2_bg_mid_far_near_wall2_29: -571148491778068175
+      lv2-2_bg_mid_far_near_wall2_3: -7200933376971900433
+      lv2-2_bg_mid_far_near_wall2_30: 2324600773987749779
+      lv2-2_bg_mid_far_near_wall2_31: 2856690169489232550
+      lv2-2_bg_mid_far_near_wall2_32: -4336930984141341534
+      lv2-2_bg_mid_far_near_wall2_33: -760154429069351531
+      lv2-2_bg_mid_far_near_wall2_34: 5680776795250867194
+      lv2-2_bg_mid_far_near_wall2_35: -5145738094419988063
+      lv2-2_bg_mid_far_near_wall2_36: -2620401687416651042
+      lv2-2_bg_mid_far_near_wall2_37: 8134796095869347683
+      lv2-2_bg_mid_far_near_wall2_38: -7690527034604754477
+      lv2-2_bg_mid_far_near_wall2_39: -3079316651103714410
+      lv2-2_bg_mid_far_near_wall2_4: -1998984007923022673
+      lv2-2_bg_mid_far_near_wall2_40: -5063068440063317387
+      lv2-2_bg_mid_far_near_wall2_41: 4242423021874342803
+      lv2-2_bg_mid_far_near_wall2_42: 530551851486713372
+      lv2-2_bg_mid_far_near_wall2_43: -182582005154670109
+      lv2-2_bg_mid_far_near_wall2_44: 7850197740913575956
+      lv2-2_bg_mid_far_near_wall2_45: 5594363843052675918
+      lv2-2_bg_mid_far_near_wall2_46: 991661186462907201
+      lv2-2_bg_mid_far_near_wall2_47: -4009688884867559876
+      lv2-2_bg_mid_far_near_wall2_48: -6282573145291414133
+      lv2-2_bg_mid_far_near_wall2_5: -7455945178639534864
+      lv2-2_bg_mid_far_near_wall2_6: 8936825006921908541
+      lv2-2_bg_mid_far_near_wall2_7: -2873314232937401196
+      lv2-2_bg_mid_far_near_wall2_8: -7026937990684438341
+      lv2-2_bg_mid_far_near_wall2_9: -9070862309480384002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

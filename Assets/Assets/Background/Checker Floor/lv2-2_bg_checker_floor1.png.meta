@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ca1a99470d98606428aafd6eefb2ef6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3882152222001940213
+    second: lv2-2_bg_checker_floor1_0
+  - first:
+      213: 5021918207944528735
+    second: lv2-2_bg_checker_floor1_1
+  - first:
+      213: -4336027945074680396
+    second: lv2-2_bg_checker_floor1_2
+  - first:
+      213: -8171673237287865811
+    second: lv2-2_bg_checker_floor1_3
+  - first:
+      213: -2716570132781916321
+    second: lv2-2_bg_checker_floor1_4
+  - first:
+      213: 5992092947396463968
+    second: lv2-2_bg_checker_floor1_5
+  - first:
+      213: -7225640488414745166
+    second: lv2-2_bg_checker_floor1_6
+  - first:
+      213: -4977360202558783251
+    second: lv2-2_bg_checker_floor1_7
+  - first:
+      213: -1509431142099045520
+    second: lv2-2_bg_checker_floor1_8
+  - first:
+      213: 807346575378912547
+    second: lv2-2_bg_checker_floor1_9
+  - first:
+      213: -3620436268717347370
+    second: lv2-2_bg_checker_floor1_10
+  - first:
+      213: 8090680631260824021
+    second: lv2-2_bg_checker_floor1_11
+  - first:
+      213: 5521744634716993491
+    second: lv2-2_bg_checker_floor1_12
+  - first:
+      213: 4790426882128983669
+    second: lv2-2_bg_checker_floor1_13
+  - first:
+      213: -2494485618297370206
+    second: lv2-2_bg_checker_floor1_14
+  - first:
+      213: 5138603744178756011
+    second: lv2-2_bg_checker_floor1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1790
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09b4936f13df1ac0800000000000000
+      internalID: -3882152222001940213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 542
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53999bb00071b540800000000000000
+      internalID: 5021918207944528735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd18a5ae8553d3c0800000000000000
+      internalID: -4336027945074680396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_3
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 242
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22f3ee6c72689e80800000000000000
+      internalID: -8171673237287865811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f19147bddcc4ad0800000000000000
+      internalID: -2716570132781916321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d80b6c9c0382350800000000000000
+      internalID: 5992092947396463968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdeb55424e59bb90800000000000000
+      internalID: -7225640488414745166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de04157544ddceab0800000000000000
+      internalID: -4977360202558783251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733642af5c6d0be0800000000000000
+      internalID: -1509431142099045520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325961cce65443b00800000000000000
+      internalID: 807346575378912547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd692f3560a1cdc0800000000000000
+      internalID: -3620436268717347370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_11
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d14f69fa2fd74070800000000000000
+      internalID: 8090680631260824021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b9b46d7d21ac40800000000000000
+      internalID: 5521744634716993491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_13
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b7c75ed30b7240800000000000000
+      internalID: 4790426882128983669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_14
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a98018eb8ec16dd0800000000000000
+      internalID: -2494485618297370206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_checker_floor1_15
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9544d31ecff4740800000000000000
+      internalID: 5138603744178756011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_bg_checker_floor1_0: -3882152222001940213
+      lv2-2_bg_checker_floor1_1: 5021918207944528735
+      lv2-2_bg_checker_floor1_10: -3620436268717347370
+      lv2-2_bg_checker_floor1_11: 8090680631260824021
+      lv2-2_bg_checker_floor1_12: 5521744634716993491
+      lv2-2_bg_checker_floor1_13: 4790426882128983669
+      lv2-2_bg_checker_floor1_14: -2494485618297370206
+      lv2-2_bg_checker_floor1_15: 5138603744178756011
+      lv2-2_bg_checker_floor1_2: -4336027945074680396
+      lv2-2_bg_checker_floor1_3: -8171673237287865811
+      lv2-2_bg_checker_floor1_4: -2716570132781916321
+      lv2-2_bg_checker_floor1_5: 5992092947396463968
+      lv2-2_bg_checker_floor1_6: -7225640488414745166
+      lv2-2_bg_checker_floor1_7: -4977360202558783251
+      lv2-2_bg_checker_floor1_8: -1509431142099045520
+      lv2-2_bg_checker_floor1_9: 807346575378912547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

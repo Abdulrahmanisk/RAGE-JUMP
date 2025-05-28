@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c0d6cb4da09c3b8478d0079dea2995a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2149932750053241814
+    second: lv2-2_bg_mid_mid_stair_hands_0
+  - first:
+      213: 7779666947371900757
+    second: lv2-2_bg_mid_mid_stair_hands_1
+  - first:
+      213: -2737097538452237664
+    second: lv2-2_bg_mid_mid_stair_hands_2
+  - first:
+      213: -7486864366461739267
+    second: lv2-2_bg_mid_mid_stair_hands_3
+  - first:
+      213: -2693242210048955371
+    second: lv2-2_bg_mid_mid_stair_hands_4
+  - first:
+      213: -6902865821500800572
+    second: lv2-2_bg_mid_mid_stair_hands_5
+  - first:
+      213: 7147954804399801705
+    second: lv2-2_bg_mid_mid_stair_hands_6
+  - first:
+      213: -4819804349828501308
+    second: lv2-2_bg_mid_mid_stair_hands_7
+  - first:
+      213: -2948931842514517903
+    second: lv2-2_bg_mid_mid_stair_hands_8
+  - first:
+      213: 892658295510343879
+    second: lv2-2_bg_mid_mid_stair_hands_9
+  - first:
+      213: 4745482306553813108
+    second: lv2-2_bg_mid_mid_stair_hands_10
+  - first:
+      213: 7059925710768029478
+    second: lv2-2_bg_mid_mid_stair_hands_11
+  - first:
+      213: -3441646890130840919
+    second: lv2-2_bg_mid_mid_stair_hands_12
+  - first:
+      213: 8231267100138010128
+    second: lv2-2_bg_mid_mid_stair_hands_13
+  - first:
+      213: 975869958243767645
+    second: lv2-2_bg_mid_mid_stair_hands_14
+  - first:
+      213: -3488684371987381824
+    second: lv2-2_bg_mid_mid_stair_hands_15
+  - first:
+      213: 5540373842474660713
+    second: lv2-2_bg_mid_mid_stair_hands_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 784
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f6e1027816dd10800000000000000
+      internalID: 2149932750053241814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1043
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f13f4cedde6fb60800000000000000
+      internalID: 7779666947371900757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1041
+        width: 91
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a255f06a40e30ad0800000000000000
+      internalID: -2737097538452237664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1050
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe948b9680591890800000000000000
+      internalID: -7486864366461739267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1021
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ca1f7ba7eaf9ad0800000000000000
+      internalID: -2693242210048955371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 809
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c18249bb181430a0800000000000000
+      internalID: -6902865821500800572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 681
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650ccae503a23360800000000000000
+      internalID: 7147954804399801705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 713
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0f691fa7d9c1db0800000000000000
+      internalID: -4819804349828501308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17085140d1a4317d0800000000000000
+      internalID: -2948931842514517903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 9
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c023b18dfb536c00800000000000000
+      internalID: 892658295510343879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789a02e3075bd140800000000000000
+      internalID: 4745482306553813108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fb9f26705e9f160800000000000000
+      internalID: 7059925710768029478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a26c675360dc30d0800000000000000
+      internalID: -3441646890130840919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 349
+        width: 12
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016f51301d55b3270800000000000000
+      internalID: 8231267100138010128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5558108e8cfa8d00800000000000000
+      internalID: 975869958243767645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 332
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c14c3a2c04b59fc0800000000000000
+      internalID: -3488684371987381824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_stair_hands_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 55
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637193d7ac53ec40800000000000000
+      internalID: 5540373842474660713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_bg_mid_mid_stair_hands_0: 2149932750053241814
+      lv2-2_bg_mid_mid_stair_hands_1: 7779666947371900757
+      lv2-2_bg_mid_mid_stair_hands_10: 4745482306553813108
+      lv2-2_bg_mid_mid_stair_hands_11: 7059925710768029478
+      lv2-2_bg_mid_mid_stair_hands_12: -3441646890130840919
+      lv2-2_bg_mid_mid_stair_hands_13: 8231267100138010128
+      lv2-2_bg_mid_mid_stair_hands_14: 975869958243767645
+      lv2-2_bg_mid_mid_stair_hands_15: -3488684371987381824
+      lv2-2_bg_mid_mid_stair_hands_16: 5540373842474660713
+      lv2-2_bg_mid_mid_stair_hands_2: -2737097538452237664
+      lv2-2_bg_mid_mid_stair_hands_3: -7486864366461739267
+      lv2-2_bg_mid_mid_stair_hands_4: -2693242210048955371
+      lv2-2_bg_mid_mid_stair_hands_5: -6902865821500800572
+      lv2-2_bg_mid_mid_stair_hands_6: 7147954804399801705
+      lv2-2_bg_mid_mid_stair_hands_7: -4819804349828501308
+      lv2-2_bg_mid_mid_stair_hands_8: -2948931842514517903
+      lv2-2_bg_mid_mid_stair_hands_9: 892658295510343879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a8f26d0a16aa33c4e9da5347ac7e843d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5710072620525838269
+    second: lv2-2_fg_eye2_0
+  - first:
+      213: -8542232249701182109
+    second: lv2-2_fg_eye2_1
+  - first:
+      213: 1155724596743722844
+    second: lv2-2_fg_eye2_2
+  - first:
+      213: 8301336509950096884
+    second: lv2-2_fg_eye2_3
+  - first:
+      213: 9076385846338624567
+    second: lv2-2_fg_eye2_4
+  - first:
+      213: 6260174411878817464
+    second: lv2-2_fg_eye2_5
+  - first:
+      213: -7959431957576078047
+    second: lv2-2_fg_eye2_6
+  - first:
+      213: -4912186808891165796
+    second: lv2-2_fg_eye2_7
+  - first:
+      213: 6883127898319066275
+    second: lv2-2_fg_eye2_8
+  - first:
+      213: 5503899271769778356
+    second: lv2-2_fg_eye2_9
+  - first:
+      213: 6510963770824721799
+    second: lv2-2_fg_eye2_10
+  - first:
+      213: 605857884415639240
+    second: lv2-2_fg_eye2_11
+  - first:
+      213: -4833721053778034962
+    second: lv2-2_fg_eye2_12
+  - first:
+      213: 313240065465644125
+    second: lv2-2_fg_eye2_13
+  - first:
+      213: -4765734773355389153
+    second: lv2-2_fg_eye2_14
+  - first:
+      213: -7114865694649920850
+    second: lv2-2_fg_eye2_15
+  - first:
+      213: 1449553394586388956
+    second: lv2-2_fg_eye2_16
+  - first:
+      213: -2501881514871158551
+    second: lv2-2_fg_eye2_17
+  - first:
+      213: 5987327786563674007
+    second: lv2-2_fg_eye2_18
+  - first:
+      213: -7970387128793887301
+    second: lv2-2_fg_eye2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 459
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340afd3743fb1c0b0800000000000000
+      internalID: -5710072620525838269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365dcaf0705e37980800000000000000
+      internalID: -8542232249701182109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57571fb565f90010800000000000000
+      internalID: 1155724596743722844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57e8cc295443370800000000000000
+      internalID: 8301336509950096884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9567a6dcc5fd70800000000000000
+      internalID: 9076385846338624567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 249
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bed604b57b90e650800000000000000
+      internalID: 6260174411878817464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d29c23eca6a8190800000000000000
+      internalID: -7959431957576078047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 224
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93bea98f1864dbb0800000000000000
+      internalID: -4912186808891165796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a493eaea58c58f50800000000000000
+      internalID: 6883127898319066275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 207
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b86e5d0a37c16c40800000000000000
+      internalID: 5503899271769778356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78502719d079b5a50800000000000000
+      internalID: 6510963770824721799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb6f03980786800800000000000000
+      internalID: 605857884415639240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeebb3ecf4c2becb0800000000000000
+      internalID: -4833721053778034962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54ff7f0e2ad85400800000000000000
+      internalID: 313240065465644125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fdc6c3975bcddb0800000000000000
+      internalID: -4765734773355389153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea257cdc85be24d90800000000000000
+      internalID: -7114865694649920850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9884fd129dd1410800000000000000
+      internalID: 1449553394586388956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e80dfb8408874dd0800000000000000
+      internalID: -2501881514871158551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f14ff46e2471350800000000000000
+      internalID: 5987327786563674007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_eye2_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 8
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd05e1a22f736190800000000000000
+      internalID: -7970387128793887301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_fg_eye2_0: -5710072620525838269
+      lv2-2_fg_eye2_1: -8542232249701182109
+      lv2-2_fg_eye2_10: 6510963770824721799
+      lv2-2_fg_eye2_11: 605857884415639240
+      lv2-2_fg_eye2_12: -4833721053778034962
+      lv2-2_fg_eye2_13: 313240065465644125
+      lv2-2_fg_eye2_14: -4765734773355389153
+      lv2-2_fg_eye2_15: -7114865694649920850
+      lv2-2_fg_eye2_16: 1449553394586388956
+      lv2-2_fg_eye2_17: -2501881514871158551
+      lv2-2_fg_eye2_18: 5987327786563674007
+      lv2-2_fg_eye2_19: -7970387128793887301
+      lv2-2_fg_eye2_2: 1155724596743722844
+      lv2-2_fg_eye2_3: 8301336509950096884
+      lv2-2_fg_eye2_4: 9076385846338624567
+      lv2-2_fg_eye2_5: 6260174411878817464
+      lv2-2_fg_eye2_6: -7959431957576078047
+      lv2-2_fg_eye2_7: -4912186808891165796
+      lv2-2_fg_eye2_8: 6883127898319066275
+      lv2-2_fg_eye2_9: 5503899271769778356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ad72eba4472c0704da094bfcf7e18b14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3337068625257559436
+    second: lv2-2_bg_mid_mid_extra_mic_flower_0
+  - first:
+      213: -2228020521814601688
+    second: lv2-2_bg_mid_mid_extra_mic_flower_1
+  - first:
+      213: 8693654689126762908
+    second: lv2-2_bg_mid_mid_extra_mic_flower_2
+  - first:
+      213: 2020292627866965200
+    second: lv2-2_bg_mid_mid_extra_mic_flower_3
+  - first:
+      213: -5411667300886581198
+    second: lv2-2_bg_mid_mid_extra_mic_flower_4
+  - first:
+      213: 3538655014614004121
+    second: lv2-2_bg_mid_mid_extra_mic_flower_5
+  - first:
+      213: -1137039155367986128
+    second: lv2-2_bg_mid_mid_extra_mic_flower_6
+  - first:
+      213: 8569554003813488227
+    second: lv2-2_bg_mid_mid_extra_mic_flower_7
+  - first:
+      213: 572699283385761930
+    second: lv2-2_bg_mid_mid_extra_mic_flower_8
+  - first:
+      213: 1465458562378268902
+    second: lv2-2_bg_mid_mid_extra_mic_flower_9
+  - first:
+      213: -2723533443461877567
+    second: lv2-2_bg_mid_mid_extra_mic_flower_10
+  - first:
+      213: -8311730031331174459
+    second: lv2-2_bg_mid_mid_extra_mic_flower_11
+  - first:
+      213: -1266795809037129726
+    second: lv2-2_bg_mid_mid_extra_mic_flower_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 138
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a0c6014c950b1d0800000000000000
+      internalID: -3337068625257559436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 708
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d5f4d32b7411e0800000000000000
+      internalID: -2228020521814601688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 483
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994f49f0e016a870800000000000000
+      internalID: 8693654689126762908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 673
+        width: 30
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d95ae075890c10800000000000000
+      internalID: 2020292627866965200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 645
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230fe081345e5e4b0800000000000000
+      internalID: -5411667300886581198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 578
+        width: 11
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f8b8bcf3db1130800000000000000
+      internalID: 3538655014614004121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 530
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb49899ec6830f0800000000000000
+      internalID: -1137039155367986128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_7
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 568
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36654d886fb2de670800000000000000
+      internalID: 8569554003813488227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 510
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a804455c6f2a2f700800000000000000
+      internalID: 572699283385761930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e08c935cca565410800000000000000
+      internalID: 1465458562378268902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0fe8853c0143ad0800000000000000
+      internalID: -2723533443461877567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c71f8de29dc6ac80800000000000000
+      internalID: -8311730031331174459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_mid_mid_extra_mic_flower_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20863676cef6b6ee0800000000000000
+      internalID: -1266795809037129726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_bg_mid_mid_extra_mic_flower_0: -3337068625257559436
+      lv2-2_bg_mid_mid_extra_mic_flower_1: -2228020521814601688
+      lv2-2_bg_mid_mid_extra_mic_flower_10: -2723533443461877567
+      lv2-2_bg_mid_mid_extra_mic_flower_11: -8311730031331174459
+      lv2-2_bg_mid_mid_extra_mic_flower_12: -1266795809037129726
+      lv2-2_bg_mid_mid_extra_mic_flower_2: 8693654689126762908
+      lv2-2_bg_mid_mid_extra_mic_flower_3: 2020292627866965200
+      lv2-2_bg_mid_mid_extra_mic_flower_4: -5411667300886581198
+      lv2-2_bg_mid_mid_extra_mic_flower_5: 3538655014614004121
+      lv2-2_bg_mid_mid_extra_mic_flower_6: -1137039155367986128
+      lv2-2_bg_mid_mid_extra_mic_flower_7: 8569554003813488227
+      lv2-2_bg_mid_mid_extra_mic_flower_8: 572699283385761930
+      lv2-2_bg_mid_mid_extra_mic_flower_9: 1465458562378268902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: c141754cab0409f44954600a55d35005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6736716432865907208
+    second: lv2-2_fg_trumpet_flower_0
+  - first:
+      213: -6402402855968680044
+    second: lv2-2_fg_trumpet_flower_1
+  - first:
+      213: 6147436835133968241
+    second: lv2-2_fg_trumpet_flower_2
+  - first:
+      213: 402935181270186678
+    second: lv2-2_fg_trumpet_flower_3
+  - first:
+      213: -9088090406135651599
+    second: lv2-2_fg_trumpet_flower_4
+  - first:
+      213: -3984447308388257967
+    second: lv2-2_fg_trumpet_flower_5
+  - first:
+      213: -5850096710068060269
+    second: lv2-2_fg_trumpet_flower_6
+  - first:
+      213: -573578272657443662
+    second: lv2-2_fg_trumpet_flower_7
+  - first:
+      213: 6089055728438758401
+    second: lv2-2_fg_trumpet_flower_8
+  - first:
+      213: 3790915054548467841
+    second: lv2-2_fg_trumpet_flower_9
+  - first:
+      213: -675787289678540918
+    second: lv2-2_fg_trumpet_flower_10
+  - first:
+      213: -6369157873748814778
+    second: lv2-2_fg_trumpet_flower_11
+  - first:
+      213: 3838281775787864880
+    second: lv2-2_fg_trumpet_flower_12
+  - first:
+      213: 930493902820681827
+    second: lv2-2_fg_trumpet_flower_13
+  - first:
+      213: 1215017794336733096
+    second: lv2-2_fg_trumpet_flower_14
+  - first:
+      213: 1865221330247834107
+    second: lv2-2_fg_trumpet_flower_15
+  - first:
+      213: 1479215385262192055
+    second: lv2-2_fg_trumpet_flower_16
+  - first:
+      213: 1561978486182782059
+    second: lv2-2_fg_trumpet_flower_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 526
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802528d27ef9d7d50800000000000000
+      internalID: 6736716432865907208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 835
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975a0d16881627a0800000000000000
+      internalID: -6402402855968680044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 835
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fcf452b35105550800000000000000
+      internalID: 6147436835133968241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bafd1b9963879500800000000000000
+      internalID: 402935181270186678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 839
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f226a72ded90e180800000000000000
+      internalID: -9088090406135651599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 840
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa145984664b8c0800000000000000
+      internalID: -3984447308388257967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f36be890840dea0800000000000000
+      internalID: -5850096710068060269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 834
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4fe57999d3a08f0800000000000000
+      internalID: -573578272657443662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 827
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c462f7ceba08450800000000000000
+      internalID: 6089055728438758401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 810
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180ca0038290c9430800000000000000
+      internalID: 3790915054548467841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 820
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f8cfe5a0f1f96f0800000000000000
+      internalID: -675787289678540918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 765
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644d1d8b8a43c97a0800000000000000
+      internalID: -6369157873748814778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 722
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f0b160f0544530800000000000000
+      internalID: 3838281775787864880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 703
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682b4f4647c9ec00800000000000000
+      internalID: 930493902820681827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7383b1f3c9cd010800000000000000
+      internalID: 1215017794336733096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 231
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf957e0eae892e910800000000000000
+      internalID: 1865221330247834107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b578d04e8a378410800000000000000
+      internalID: 1479215385262192055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_fg_trumpet_flower_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642abf48234da510800000000000000
+      internalID: 1561978486182782059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_fg_trumpet_flower_0: 6736716432865907208
+      lv2-2_fg_trumpet_flower_1: -6402402855968680044
+      lv2-2_fg_trumpet_flower_10: -675787289678540918
+      lv2-2_fg_trumpet_flower_11: -6369157873748814778
+      lv2-2_fg_trumpet_flower_12: 3838281775787864880
+      lv2-2_fg_trumpet_flower_13: 930493902820681827
+      lv2-2_fg_trumpet_flower_14: 1215017794336733096
+      lv2-2_fg_trumpet_flower_15: 1865221330247834107
+      lv2-2_fg_trumpet_flower_16: 1479215385262192055
+      lv2-2_fg_trumpet_flower_17: 1561978486182782059
+      lv2-2_fg_trumpet_flower_2: 6147436835133968241
+      lv2-2_fg_trumpet_flower_3: 402935181270186678
+      lv2-2_fg_trumpet_flower_4: -9088090406135651599
+      lv2-2_fg_trumpet_flower_5: -3984447308388257967
+      lv2-2_fg_trumpet_flower_6: -5850096710068060269
+      lv2-2_fg_trumpet_flower_7: -573578272657443662
+      lv2-2_fg_trumpet_flower_8: 6089055728438758401
+      lv2-2_fg_trumpet_flower_9: 3790915054548467841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

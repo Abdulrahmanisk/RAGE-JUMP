@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 6bd075b323a389f4e99b9de5b05f26b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4854271294304116322
+    second: lv2-2_bg_simple_divider_0
+  - first:
+      213: 8138139776705409527
+    second: lv2-2_bg_simple_divider_1
+  - first:
+      213: -907637189119436384
+    second: lv2-2_bg_simple_divider_2
+  - first:
+      213: -1437986275593579821
+    second: lv2-2_bg_simple_divider_3
+  - first:
+      213: -4082277594223624432
+    second: lv2-2_bg_simple_divider_4
+  - first:
+      213: 9085300985254310785
+    second: lv2-2_bg_simple_divider_5
+  - first:
+      213: 6915217015895116592
+    second: lv2-2_bg_simple_divider_6
+  - first:
+      213: 1959263476801243767
+    second: lv2-2_bg_simple_divider_7
+  - first:
+      213: 8899707389577000157
+    second: lv2-2_bg_simple_divider_8
+  - first:
+      213: 4044711924876107607
+    second: lv2-2_bg_simple_divider_9
+  - first:
+      213: 7283799257172172448
+    second: lv2-2_bg_simple_divider_10
+  - first:
+      213: 810787368430763120
+    second: lv2-2_bg_simple_divider_11
+  - first:
+      213: 6889196504481189920
+    second: lv2-2_bg_simple_divider_12
+  - first:
+      213: -15448725824400501
+    second: lv2-2_bg_simple_divider_13
+  - first:
+      213: 797995453365079643
+    second: lv2-2_bg_simple_divider_14
+  - first:
+      213: -8059711255059066863
+    second: lv2-2_bg_simple_divider_15
+  - first:
+      213: -445291595269771740
+    second: lv2-2_bg_simple_divider_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 577
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a0a31af922acb0800000000000000
+      internalID: -4854271294304116322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1053
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1b00b520b70f070800000000000000
+      internalID: 8138139776705409527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1055
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a91a9d09cc6763f0800000000000000
+      internalID: -907637189119436384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1055
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29b53e91f3b0ce0800000000000000
+      internalID: -1437986275593579821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1055
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fb3c92826d857c0800000000000000
+      internalID: -4082277594223624432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1055
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183f69f2c19751e70800000000000000
+      internalID: 9085300985254310785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1055
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4a21dc39c7ff50800000000000000
+      internalID: 6915217015895116592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1055
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a822460c3b03b10800000000000000
+      internalID: 1959263476801243767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1053
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4f7a8d7bc128b70800000000000000
+      internalID: 8899707389577000157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1055
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd60dd014b12830800000000000000
+      internalID: 4044711924876107607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1053
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae500b45d0451560800000000000000
+      internalID: 7283799257172172448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1053
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c70bbd0de704b00800000000000000
+      internalID: 810787368430763120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1048
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d67568b75b9f50800000000000000
+      internalID: 6889196504481189920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 75
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b831109377d19cff0800000000000000
+      internalID: -15448725824400501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec33a03ac031b00800000000000000
+      internalID: 797995453365079643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1109cf1d057262090800000000000000
+      internalID: -8059711255059066863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_bg_simple_divider_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e6a7247a102d9f0800000000000000
+      internalID: -445291595269771740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_bg_simple_divider_0: -4854271294304116322
+      lv2-2_bg_simple_divider_1: 8138139776705409527
+      lv2-2_bg_simple_divider_10: 7283799257172172448
+      lv2-2_bg_simple_divider_11: 810787368430763120
+      lv2-2_bg_simple_divider_12: 6889196504481189920
+      lv2-2_bg_simple_divider_13: -15448725824400501
+      lv2-2_bg_simple_divider_14: 797995453365079643
+      lv2-2_bg_simple_divider_15: -8059711255059066863
+      lv2-2_bg_simple_divider_16: -445291595269771740
+      lv2-2_bg_simple_divider_2: -907637189119436384
+      lv2-2_bg_simple_divider_3: -1437986275593579821
+      lv2-2_bg_simple_divider_4: -4082277594223624432
+      lv2-2_bg_simple_divider_5: 9085300985254310785
+      lv2-2_bg_simple_divider_6: 6915217015895116592
+      lv2-2_bg_simple_divider_7: 1959263476801243767
+      lv2-2_bg_simple_divider_8: 8899707389577000157
+      lv2-2_bg_simple_divider_9: 4044711924876107607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

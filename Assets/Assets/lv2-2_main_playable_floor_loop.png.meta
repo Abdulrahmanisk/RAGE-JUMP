@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 3e5d414f15aab9340a83b866cfbbacbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8105973440418141249
+    second: lv2-2_main_playable_floor_loop_0
+  - first:
+      213: -4785542893212073293
+    second: lv2-2_main_playable_floor_loop_1
+  - first:
+      213: 2804830280414406755
+    second: lv2-2_main_playable_floor_loop_2
+  - first:
+      213: 3621138746089460192
+    second: lv2-2_main_playable_floor_loop_3
+  - first:
+      213: -8388815562356736076
+    second: lv2-2_main_playable_floor_loop_4
+  - first:
+      213: -7641858416120290988
+    second: lv2-2_main_playable_floor_loop_5
+  - first:
+      213: -8534400790628857172
+    second: lv2-2_main_playable_floor_loop_6
+  - first:
+      213: 1685733768124892206
+    second: lv2-2_main_playable_floor_loop_7
+  - first:
+      213: -282529062566255587
+    second: lv2-2_main_playable_floor_loop_8
+  - first:
+      213: -751745999672350954
+    second: lv2-2_main_playable_floor_loop_9
+  - first:
+      213: 2144048095680978354
+    second: lv2-2_main_playable_floor_loop_10
+  - first:
+      213: 4424749009839988155
+    second: lv2-2_main_playable_floor_loop_11
+  - first:
+      213: -1334777701064739224
+    second: lv2-2_main_playable_floor_loop_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1422
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144dfd295e33e7070800000000000000
+      internalID: 8105973440418141249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_1
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 245
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b203b0f716569db0800000000000000
+      internalID: -4785542893212073293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 245
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3682c578742cce620800000000000000
+      internalID: 2804830280414406755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 245
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d013018ed04230800000000000000
+      internalID: 3621138746089460192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 246
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf357f11b0f49b80800000000000000
+      internalID: -8388815562356736076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 248
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4512253424aa2f590800000000000000
+      internalID: -7641858416120290988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_6
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa01c7b2b7bf8980800000000000000
+      internalID: -8534400790628857172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 249
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2407f24eede46710800000000000000
+      internalID: 1685733768124892206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a3038051441cf0800000000000000
+      internalID: -282529062566255587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 248
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61765380ff24195f0800000000000000
+      internalID: -751745999672350954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_10
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 252
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdda64226031cd10800000000000000
+      internalID: 2144048095680978354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd16c7f7cdd76d30800000000000000
+      internalID: 4424749009839988155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lv2-2_main_playable_floor_loop_12
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 249
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8667ce9b0cae97de0800000000000000
+      internalID: -1334777701064739224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lv2-2_main_playable_floor_loop_0: 8105973440418141249
+      lv2-2_main_playable_floor_loop_1: -4785542893212073293
+      lv2-2_main_playable_floor_loop_10: 2144048095680978354
+      lv2-2_main_playable_floor_loop_11: 4424749009839988155
+      lv2-2_main_playable_floor_loop_12: -1334777701064739224
+      lv2-2_main_playable_floor_loop_2: 2804830280414406755
+      lv2-2_main_playable_floor_loop_3: 3621138746089460192
+      lv2-2_main_playable_floor_loop_4: -8388815562356736076
+      lv2-2_main_playable_floor_loop_5: -7641858416120290988
+      lv2-2_main_playable_floor_loop_6: -8534400790628857172
+      lv2-2_main_playable_floor_loop_7: 1685733768124892206
+      lv2-2_main_playable_floor_loop_8: -282529062566255587
+      lv2-2_main_playable_floor_loop_9: -751745999672350954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
